@@ -6,11 +6,11 @@ This repository contains the instances generated for the manuscript "Tailoring J
 To make things easier for the user, we have organized the instances into subfolders, following the same structure from the manuscript:
 
 -  **1_Simple instances**
--  2_Unbounded instances 1v1
--  3_Unbounded intances 1v3
--  4_Bounded instances
--  5_Large instances
--  6_Feature-focused instances
+-  **2_Unbounded instances 1v1**
+-  **3_Unbounded intances 1v3**
+-  **4_Bounded instances**
+-  **5_Large instances**
+-  **6_Feature-focused instances**
 
 ---
 *Disclaimer*: These files provide support for directly running tests within Matlab. To this end the [`MatHH`](https://github.com/iamaya2/MatHH) framework is required. In case you do not want to use `MatHH`, each instance contains a property named `rawInstanceData` with the numerical information of the instance. 
