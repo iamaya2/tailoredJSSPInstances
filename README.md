@@ -5,7 +5,7 @@ This repository contains the instances generated for the manuscript "Tailoring J
 ## Available instances and instance organization
 To make things easier for the user, we have organized the instances into subfolders, following the same structure from the manuscript:
 
-1. [Simple instances:](./Instances/1_Simple%20instances) 30 instances that favor LPT while hindering SPT and 30 instances with the opposite goal. These instances were generated with fixed parameters for the UPSO algorithm. Total: 60 instances.
+1. [**Simple instances**:](./Instances/1_Simple%20instances) 30 instances that favor LPT while hindering SPT and 30 instances with the opposite goal. These instances were generated with fixed parameters for the UPSO algorithm. Total: 60 instances.
 1. [**Unbounded instances 1v1**:](./Instances/2_Unbounded%20instances%201v1) 30 instances for 4 pair-wise comparisons with 81 different parameter combinations for UPSO. Total: 9720 instances.
 1. [**Unbounded intances 1v3**:](./Instances/3_Unbounded%20intances%201v3) 30 instances generated for favoring one heuristic while hindering the others, and viceversa, for 4 heuristics. These instances are generated with the best two parameter configurations for UPSO. Total: 480 instances.
 1. [**Bounded instances**:](./Instances/4_Bounded%20instances) Similar to the previous one but this folder also considers 5 specific performance gap levels between the solvers. Total: 2400 instances.
