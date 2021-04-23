@@ -13,14 +13,14 @@ To make things easier for the user, we have organized the instances into subfold
 1. [**Feature-focused instances**:](./Instances/6_Feature-focused%20instances) 100 instances that maximize the value for each available feature and 100 instances that minimize them. Additionally, 2500 instances with intermediate feature values. Total: 3500 instances.
 
 ## Requirements
-- Matlab R2020b
+- Matlab R2019b or later
 - [MatHH framework](https://github.com/iamaya2/MatHH)
-- 16 GB RAM
+- 8 GB RAM (16 GB recommended)
 
 ## Disclaimer
 These files provide support for directly running tests within Matlab. To this end the [`MatHH`](https://github.com/iamaya2/MatHH) framework is required. In case you do not want to use `MatHH`, each instance contains a property named `rawInstanceData` with the numerical information of the instance. 
 
 ## Contact information
-Iván Amaya - [iamaya2@tec.mx](mailto:iamaya2@tec.mx)
+Ivan Amaya - [iamaya2@tec.mx](mailto:iamaya2@tec.mx)
 
 Distributed under the MIT license. See [LICENSE](./LICENSE) for more information.
